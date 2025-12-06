@@ -1,2 +1,1 @@
-# Craftivo-index.html
 Craftivo
